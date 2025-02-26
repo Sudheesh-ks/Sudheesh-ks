@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Sudheesh  
 ---
 
-<br>
-
 ## 💡 About Me  
 ```ts
 interface Developer {
