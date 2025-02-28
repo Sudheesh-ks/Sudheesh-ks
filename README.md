@@ -19,7 +19,7 @@ const sudheesh: Developer = {
 ```
 ---
 
-## 🔥 Tech Stack  
+## 🔥 My Tech Wardrobe
 <details>
   <summary>🌐 Frontend</summary>
   <p>
