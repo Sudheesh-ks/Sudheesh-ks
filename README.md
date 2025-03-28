@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sudheesh  
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=I+love+to+create+scalable+web+applications;I+love+robust+coding;I+prefer+Singleton+Pattern;I+prefer+Dependency+Injection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=I+am+a+MERN+Stack+developer;I+love+to+create+scalable+applications;Connect+with+me+for+tech+chats" alt="Typing SVG" />
 </p>
 
 <div align="center">
