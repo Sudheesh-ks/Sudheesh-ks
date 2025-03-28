@@ -66,8 +66,10 @@ const sudheesh = {
 </details>
 
 ---
+<div class="align-items-center">
+    <img src="https://komarev.com/ghpvc/?username=Sudheesh-ks&color=blue&style=flat-square" alt="Profile views">
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=AfsalMadathingal&color=blue&style=flat-square)
 
 ---
 
