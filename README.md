@@ -66,10 +66,12 @@ const sudheesh = {
 </details>
 
 ---
-<div>
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sudheesh-ks&color=blue&style=flat-square" alt="Profile views">
 </div>
 
 
----
+<div align="center">
+  <img height="120" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
