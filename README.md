@@ -26,7 +26,7 @@ const sudheesh = {
 ```
 ---
 
-## 🔥 My Tech Wardrobe
+## 🔥 My Tech Stack
 <details>
   <summary>🌐 Frontend</summary>
   <p>
@@ -67,7 +67,7 @@ const sudheesh = {
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sudheesh-ks&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=AfsalMadathingal&color=blue&style=flat-square)
 
 ---
 
