@@ -20,7 +20,7 @@
 const sudheesh = {
     name: "Sudheesh",
     role: "Full Stack Developer",
-    skills: ["JavaScript", "TypeScript", "C", "Data Structures", "Node.js", "React"],
+    skills: ["JavaScript", "React", "TypeScript", "Data Structures", "Node.js", "MongoDB"],
     passion: "Building smart applications and sharing my knowledge."
 };
 ```
@@ -51,14 +51,6 @@ const sudheesh = {
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary>☁️ DevOps</summary>
-  <p>
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </p>
 </details>
 
