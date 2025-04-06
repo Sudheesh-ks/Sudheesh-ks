@@ -21,7 +21,7 @@ const sudheesh = {
     name: "Sudheesh",
     role: "Full Stack Developer",
     skills: ["JavaScript", "React", "TypeScript", "Data Structures", "Node.js", "MongoDB"],
-    passion: "Building smart applications and sharing my knowledge."
+    passion: "Building scalable applications and sharing my knowledge."
 };
 ```
 ---
