@@ -1,29 +1,24 @@
-# Hi there! 👋 I'm Sudheesh  
----
+<!-- Header Section -->
+<h1 align="center">Hey there, I'm Sudheesh 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=I+am+a+MERN+Stack+developer;I+love+to+create+scalable+applications;Connect+with+me+for+tech+chats" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Clean+Code+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 <div align="center">
-   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="handshake gif" />
 </div>
 
+---
 
-
-<br/>
-
-
-
-
-## 💡 About Me  
-```js
+## 🚀 About Me
+```javascript
 const sudheesh = {
-    name: "Sudheesh",
-    role: "Full Stack Developer",
-    skills: ["JavaScript", "React", "TypeScript", "Data Structures", "Node.js", "MongoDB"],
-    passion: "Building scalable applications and sharing my knowledge."
+    name: "Sudheesh KS",
+    role: "MERN Stack Developer",
+    code: ["JavaScript", "TypeScript", "React", "Node.js", "MongoDB"],
+    loves: ["Scalable Applications", "Clean Architecture", "Problem Solving"],
+    funFact: "I debug faster with coffee ☕"
 };
-```
 ---
 
 ## 🔥 My Tech Stack
