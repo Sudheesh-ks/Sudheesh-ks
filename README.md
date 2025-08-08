@@ -10,15 +10,15 @@
 
 ---
 
-## 🚀 About Me
-```javascript
+## 💡 About Me  
+```js
 const sudheesh = {
-    name: "Sudheesh KS",
-    role: "MERN Stack Developer",
-    code: ["JavaScript", "TypeScript", "React", "Node.js", "MongoDB"],
-    loves: ["Scalable Applications", "Clean Architecture", "Problem Solving"],
-    funFact: "I debug faster with coffee ☕"
+    name: "Sudheesh",
+    role: "Full Stack Developer",
+    skills: ["JavaScript", "React", "TypeScript", "Data Structures", "Node.js", "MongoDB"],
+    passion: "Building scalable applications and sharing my knowledge."
 };
+```
 ---
 
 ## 🔥 My Tech Stack
@@ -64,12 +64,21 @@ const sudheesh = {
 </details>
 
 ---
+ <h1>🌱 Currently Exploring :</h1> <br />
+      <ul>
+       <li> Clean code architecture</li> <br />
+      <li> Working on a doctor consultation booking application</li> <br />
+      </ul>
+
+---
+<h1>📫 Connect With Me</h1>
+<p align="center"> <a href="https://www.linkedin.com/in/sudheeshkarippadath/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sudheeshks132@gmail.com"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+---
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sudheesh-ks&color=blue&style=flat-square" alt="Profile views">
 </div>
 
-
 <div align="center">
   <img height="120" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
