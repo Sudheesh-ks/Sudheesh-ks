@@ -64,14 +64,14 @@ const sudheesh = {
 </details>
 
 ---
- <h1>🌱 Currently Exploring :</h1> <br />
-      <ul>
-       <li> Clean code architecture</li> <br />
-      <li> Working on a doctor consultation booking application</li> <br />
-      </ul>
+## 🌱 Currently Exploring
+   <ul>
+    <li> Clean code architecture</li> <br />
+    <li> Working on a doctor consultation booking application</li> <br />
+  </ul>
 
 ---
-<h1>📫 Connect With Me</h1>
+## 📫 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/sudheeshkarippadath/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sudheeshks132@gmail.com"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
