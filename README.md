@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350" align="right">
 ✨ FullStack Developer | MERN <br>
 ⚡ Check out my ✨ <a href="">Website</a><br>
-📫 How to reach me: <a href="mailto:sudheeshks132@gmail.com">Email</a><br>
+📫 How to reach me: [Email Me](mailto:sudheeshks132@gmail.com)<br>
 💬 Ask me about Web development.<br><br>
 
 <b>🛠 Tech Stack</b><br><br>
