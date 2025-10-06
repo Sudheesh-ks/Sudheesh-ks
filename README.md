@@ -67,7 +67,7 @@ const sudheesh = {
 ## 🌱 Currently Exploring
    <ul>
     <li> Clean code architecture</li> <br />
-    <li> Working on a doctor consultation booking application</li> <br />
+    <li> Working on an online doctor consultation application</li> <br />
      <li> Next js</li> <br />
   </ul>
 
