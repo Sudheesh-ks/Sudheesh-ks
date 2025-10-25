@@ -11,7 +11,7 @@
 👨🏻‍💻 <b>About Me</b><br><br>
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350" align="right">
 ✨ FullStack Developer | MERN <br>
-⚡ Check out my ✨ <a href="https://sudheesh-ks.vercel.app/">Website</a><br>
+⚡ Check out my ✨ <a href="https://sudheesh-ks.vercel.app/">Portfolio</a><br>
 📫 How to reach me: [Email Me](mailto:sudheeshks132@gmail.com)<br>
 💬 Ask me about Web development.<br><br>
 
